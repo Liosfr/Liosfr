@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  a code-addicted student from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> **Paris, France**.
+  a code-addicted student from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <strong>Paris, France</strong>.
 </p>
 
 
