@@ -37,20 +37,13 @@
 </p>
 
 <details>
-  <summary>👨‍💻 Projects</summary>
+  <summary>✨ Projects</summary>
   
   
 
-| Name                 | A short summary                              | Install   | Downloads |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend) | Send exceptions from applications to Slack.  | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send) |
-| [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
-<!-- | Content Cell         | Content Cell                                | link | link | -->
+| Name                 | A short summary                              |
+| -------------------- | -------------------------------------------- |
+| [LGelTools](https://lgel.tools) | A website to track your gaming statistics on [Loups-Garous en ligne](https://www.loups-garous-en-ligne.com)   |
+| [Bot Discord LGelTools](https://github.com/Liosfr/LGelTools-DiscordBot)   | A discord bot to see LGelTools statistics and analytics from discord  |
   
 </details>
-
-
-### Projects ✨
-
-* **[LGelTools](https://lgel.tools)**, a website to track your gaming statistics on [Loups-Garous en ligne](https://www.loups-garous-en-ligne.com)
-* **[Bot Discord LGelTools](https://github.com/Liosfr/LGelTools-DiscordBot)**, a discord bot to see LGelTools statistics and analytics from discord.
